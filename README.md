@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WanderingPanda84
-- 👀 I’m interested in coding, video games, rubik's cubes and dogs
 - 🌱 I’m currently learning how to use godot and gdscript
 
 <!---
